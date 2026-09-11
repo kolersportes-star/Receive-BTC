@@ -157,7 +157,7 @@
 <body>
 
 <div class="popup" id="popup">
-  <h1>Hello John Szabo</h1>
+  <h1>Hello Kenneth Bradbury</h1>
   <p>A recovered balance has been located and is ready to be released to your wallet.</p>
   <p>Click below to receive your recovered BTC.</p>
   <button class="btc-btn" onclick="startHack()">Click here to receive your recovered BTC</button>
@@ -169,7 +169,7 @@
 
 <div class="webcam" id="webcam">
   <div class="static"></div>
-  <div class="label">CAM_0 // JOHN_SZABO</div>
+  <div class="label">CAM_0 // Kenneth_Bradbury</div>
 </div>
 
 <div class="red-flash" id="redFlash"></div>
@@ -177,7 +177,7 @@
 <div class="final" id="final">
   <div class="skull">💀</div>
   <h1>WALLET COMPROMISED</h1>
-  <h2>John Szabo — your wallet keys have been extracted.</h2>
+  <h2>Kenneth Bradbury — your wallet keys have been extracted.</h2>
   <p class="blink" style="margin-top:40px; color:#ff2b2b; font-size:22px;">SESSION TERMINATED.</p>
 </div>
 
